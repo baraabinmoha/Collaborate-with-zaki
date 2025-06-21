@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.zaka{
+    padding: 10px;
+    display: flex;
+
+
+}
+.box{
+    background-color: blue;
+    height: 200px;
+    width: 100px;
+    gap: 30px;
+    margin-right: 20px;
+    margin-top: 10px;
+
+}
